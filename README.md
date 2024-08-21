@@ -51,8 +51,8 @@ To run this Streamlit application locally, follow these steps:
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/madhavangn-work/Streamlit-ML.git
+    cd Streamlit-ML
     ```
 2.  **Install the required dependencies**:
     ```bash
