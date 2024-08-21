@@ -44,6 +44,25 @@ Features
 
 -   **Data Report**: Generates a comprehensive report on the uploaded dataset using `ydata_profiling`, providing insights into the data structure, distribution, and potential issues.
 
+Installation
+------------
+
+To run this Streamlit application locally, follow these steps:
+
+1.  **Clone the repository**:
+    ```bash
+    git clone <repository-url>
+    cd <repository-directory>
+    ```
+2.  **Install the required dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4.  **Run the Streamlit application**:
+    ```bash
+    streamlit run 1_🏠_Home.py
+    ```
+
 Usage
 -----
 
